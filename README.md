@@ -6,7 +6,7 @@ This repository contains supplementary material accompanying the paper:
 
 > Siebers, P.O. and Frantz, C. (2026). Large Language Models as Supervised Extraction Assistants: Lowering the Barrier to Documentation Standard Adoption in Agent-Based Modelling. To be presented at the *Social Simulation Conference 2026*, 24–28 August 2026, Durham, UK.  
 
-The accepted version will be made available on arXiv soon.
+The accepted version is available from [arXiv](https://arxiv.org/abs/2606.13749).
 
 ## Reference to the RAT-RS Standard
 
